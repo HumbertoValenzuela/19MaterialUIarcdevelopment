@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## MAterial UI, axios, Fron End integracion continua con Netlify, Back End integración continua Heroku
+##
 
 ## Available Scripts
 
